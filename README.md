@@ -1,6 +1,6 @@
 # Hey, I’m Rutuja 👋
 
-If you’d met me a few years ago, I’d probably be surrounded by circuits and signal diagrams.
+If you had met me a few years ago, I'd probably be surrounded by circuits and signal diagrams.
 
 I started out in **Electronics Engineering**, fascinated by how systems work beneath the surface. But the more I learned, the more I realised what excited me most wasn’t just *how* systems worked – it was **what decisions people made because of them**. That curiosity slowly pulled me from hardware into the world of **data, analytics, and intelligent systems**.
 

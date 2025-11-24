@@ -44,8 +44,8 @@ I’m comfortable with:
 - I started out surrounded by circuits and signals in **Electronics Engineering**.
 - Then I realised I was more obsessed with **“What does this data *mean* for decisions?”** than the hardware itself.
 - That curiosity pulled me into:
-  - A **Research Intern** role at TCR Innovation working on stock market data and predictive modelling.
-  - Academic and personal projects in **finance, energy, and AI**, all with one theme:  
+  - A **Research Analyst** role at TCR Innovation working on stock market data and predictive modelling.
+  - Academic and personal projects in **finance, energy, Healthcare and AI**, all with one theme:  
     > “Can I make this complex thing easier to understand?”
 
 ---

@@ -4,7 +4,7 @@ Welcome to my little corner of the internet, where data, dashboards, and slightl
 
 ---
 
-## 🧠 Who am I (in 30 seconds)?
+## Who am I (in 30 seconds)?
 
 - 🎓 Grad student in **Information Systems @ Syracuse University**
 - 📊 Started in **Electronics Engineering**, fell in love with **data, analytics, and decision-making**
@@ -14,7 +14,7 @@ If something is confusing, I probably want to turn it into a chart.
 
 ---
 
-## 📌 What you’ll find on this GitHub
+## What you’ll find on this GitHub
 
 Think of this profile as a mini tour of the things I’m curious about:
 
@@ -29,7 +29,7 @@ Think of this profile as a mini tour of the things I’m curious about:
 
 ---
 
-## 🛠 Tech I actually use
+## Tech I actually use
 
 I’m comfortable with:
 
@@ -39,7 +39,7 @@ I’m comfortable with:
 
 ---
 
-## 🌱 How I got here
+## How I got here
 
 - I started out surrounded by circuits and signals in **Electronics Engineering**.
 - Then I realised I was more obsessed with **“What does this data *mean* for decisions?”** than the hardware itself.
@@ -50,7 +50,7 @@ I’m comfortable with:
 
 ---
 
-## 🚀 Why I build things
+## Why I build things
 
 I love that moment when someone looks at a chart or a dashboard and says:  
 > “Ohhh, now I get it.”
@@ -62,7 +62,7 @@ That’s the goal of most of my work here:
 
 ---
 
-## 👀 Where to click next
+## Where to click next
 
 If you want to explore:
 

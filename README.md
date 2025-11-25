@@ -70,5 +70,7 @@ If you want to explore:
 - 📈 **Markets & prediction:** look at my stock market analysis + student investing dashboards  
 - 🧪 **ML & experiments:** anything with “prediction”, “forecasting”, or “detection” in the name
 
-And if any idea here sparks a thought, a question, or a “we should build this,”  
-I’d love to connect. 🙂
+If any project here sparks a thought, question, or “we should build this,” I’d love to connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rutujahande/)
+- 📧 Email: rutujahande09@gmail.com

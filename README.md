@@ -4,7 +4,7 @@ Welcome to my little corner of the internet, where data, dashboards, and slightl
 
 ---
 
-## Who am I (in 30 seconds)?
+## Who am I?
 
 - 🎓 Grad student in **Information Systems @ Syracuse University**
 - 📊 Started in **Electronics Engineering**, fell in love with **data, analytics, and decision-making**
